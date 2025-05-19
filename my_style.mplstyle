@@ -1,0 +1,26 @@
+font.family:         "sans-serif"
+font.serif:          "Calibri Light"
+text.color:          "#404040"
+
+axes.titlesize:      large
+axes.titlelocation:  left
+axes.titleweight:    bold
+axes.titlepad:       20
+
+lines.linewidth:     1
+lines.markersize:    5
+
+xtick.labelsize:     small
+ytick.labelsize:     small
+
+axes.labelpad:       15
+axes.labelsize:      small
+axes.labelcolor:     "#404040"
+
+axes.spines.bottom:  False
+axes.spines.left:    False
+axes.spines.right:   False
+axes.spines.top:     False
+
+grid.linewidth:      0.3
+grid.color:          "#b0b0b0"
